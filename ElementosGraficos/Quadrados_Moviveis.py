@@ -1,7 +1,5 @@
 from PySide6.QtCore import QSize, Qt
-
 from PySide6.QtGui import QPen, QBrush
-
 from PySide6.QtWidgets import QApplication, QMainWindow, QGraphicsView, QGraphicsScene, QGraphicsItem
 
 application = QApplication()
